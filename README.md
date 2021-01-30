@@ -3,13 +3,6 @@
 </p>
 
 <p align="center">
-    <img src = "https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwldnswldnswl&count_bg=%23141321&title_bg=%236C49B8&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"
-         alt="hits" />&nbsp;
-    <img src="https://img.shields.io/badge/-Tech%20Blog-6C49B8?logo=Bloglovin&link=https://blog.naver.com/wldnswldnswl" alt="blog"/>
-    <img src="https://img.shields.io/badge/-Gmail-d93a7c?logo=Gmail?link=mailto:jiunlee97@gmail.com" alt="email"/>
-</p>
-
-<p align="center">
     <h2> 🔯️ Core Tech </h2>
 </p>
 
@@ -27,8 +20,18 @@
 </p>
 
 <p align="center">
+    <h2> 🔯️ Me </h2>
+</p>
+
+<p align="center">
+    <img src = "https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwldnswldnswl&count_bg=%23141321&title_bg=%236C49B8&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"
+         alt="hits" />
+    <img src="https://img.shields.io/badge/-Tech%20Blog-6C49B8?logo=Bloglovin&link=https://blog.naver.com/wldnswldnswl" alt="blog"/>
+    <img src="https://img.shields.io/badge/-Gmail-d93a7c?logo=Gmail?link=mailto:jiunlee97@gmail.com" alt="email"/>
+</p>
+<p align="center">
+   <img src = "https://github-readme-stats.vercel.app/api?theme=radical&&username=wldnswldnswl" />&nbsp;&nbsp;
    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=wldnswldnswl&layout=compact" alt="topLangs" />
-   <img src = "https://github-readme-stats.vercel.app/api?theme=radical&&username=wldnswldnswl" />
 </p>
     
 <p align="center">
