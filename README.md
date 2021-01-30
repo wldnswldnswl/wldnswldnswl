@@ -8,9 +8,6 @@
     <img src="https://img.shields.io/badge/-Tech%20Blog-6C49B8?logo=Bloglovin&link=https://blog.naver.com/wldnswldnswl" alt="blog"/>
     <img src="https://img.shields.io/badge/-Gmail-d93a7c?logo=Gmail?link=mailto:jiunlee97@gmail.com" alt="email"/>
 </p>
-<p align="center">
-    <img src = "https://github-readme-stats.vercel.app/api?theme=radical&&username=wldnswldnswl" />
-</p>
 
 <p align="center">
     <h2> 🔯️ Core Tech </h2>
@@ -30,11 +27,12 @@
 </p>
 
 <p align="center">
-   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=wldnswldnswl&layout=compact" alt="topLangs"
+   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=wldnswldnswl&layout=compact" alt="topLangs" />
+   <img src = "https://github-readme-stats.vercel.app/api?theme=radical&&username=wldnswldnswl" />
 </p>
     
 <p align="center">
-   <img src = "https://capsule-render.vercel.app/api?type=Rect&color=353866&height=20&section=footer" alt="footer"
+   <img src = "https://capsule-render.vercel.app/api?type=Rect&color=353866&height=20&section=footer" alt="footer" />
 </p>
  
 
