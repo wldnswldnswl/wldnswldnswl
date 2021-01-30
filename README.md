@@ -30,8 +30,8 @@
     <img src="https://img.shields.io/badge/-Gmail-d93a7c?logo=Gmail?link=mailto:jiunlee97@gmail.com" alt="email"/>
 </p>
 <p align="center">
-   <img src = "https://github-readme-stats.vercel.app/api?theme=radical&&username=wldnswldnswl" />&nbsp;
-   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=wldnswldnswl&layout=compact&theme=radical" alt="topLangs" />
+   <img src = "https://github-readme-stats.vercel.app/api?theme=cobalt&&username=wldnswldnswl" />&nbsp;
+   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=wldnswldnswl&layout=compact&theme=cobalt" alt="topLangs" />
 </p>
     
 <p align="center">
