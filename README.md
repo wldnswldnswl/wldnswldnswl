@@ -3,10 +3,12 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwldnswldnswl&count_bg=%23141321&title_bg=%236C49B8&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)&nbsp;![블로그](https://img.shields.io/badge/-Tech%20Blog-6C49B8?logo=Bloglovin&link=https://blog.naver.com/wldnswldnswl)&nbsp;![메일](https://img.shields.io/badge/-Gmail-d93a7c?logo=Gmail?link=mailto:jiunlee97@gmail.com)
 
 <p align="center">
-    <img src = "https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwldnswldnswl&count_bg=%23141321&title_bg=%236C49B8&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"
+    <img align="center" src = "https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwldnswldnswl&count_bg=%23141321&title_bg=%236C49B8&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"
          alt="hits" />&nbsp;
-    <img src="https://img.shields.io/badge/-Tech%20Blog-6C49B8?logo=Bloglovin&link=https://blog.naver.com/wldnswldnswl" alt="blog"/>
-    <img src="https://img.shields.io/badge/-Gmail-d93a7c?logo=Gmail?link=mailto:jiunlee97@gmail.com" alt="email"/>
+    <img align="center" src="https://img.shields.io/badge/-Tech%20Blog-6C49B8?logo=Bloglovin&link=https://blog.naver.com/wldnswldnswl" alt="blog"/>
+    <img align="center" src="https://img.shields.io/badge/-Gmail-d93a7c?logo=Gmail?link=mailto:jiunlee97@gmail.com" alt="email"/>
+    
+    
     <img align="center" src = "https://github-readme-stats.vercel.app/api?theme=radical&&username=wldnswldnswl" />
 </p>
 
