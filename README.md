@@ -7,7 +7,9 @@
          alt="hits" />&nbsp;
     <img align="center" src="https://img.shields.io/badge/-Tech%20Blog-6C49B8?logo=Bloglovin&link=https://blog.naver.com/wldnswldnswl" alt="blog"/>
     <img align="center" src="https://img.shields.io/badge/-Gmail-d93a7c?logo=Gmail?link=mailto:jiunlee97@gmail.com" alt="email"/>
-    <img align="center" src = "https://github-readme-stats.vercel.app/api?theme=radical&&username=wldnswldnswl" />
+</p>
+<p align="center">
+    <img src = "https://github-readme-stats.vercel.app/api?theme=radical&&username=wldnswldnswl" />
 </p>
 
 ### 🔯️ Core Tech
