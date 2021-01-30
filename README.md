@@ -20,7 +20,7 @@
 </p>
 
 <p align="center">
-    <h2> 🔯️ Me </h2>
+    <h2> 🔯️:sparkles: Me </h2>
 </p>
 
 <p align="center">
