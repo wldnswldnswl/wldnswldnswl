@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-    ### 🔯️ Core Tech
+    <h2> 🔯️ Core Tech </h2>
 </p>
 
 <p align="center">
