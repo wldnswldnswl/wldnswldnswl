@@ -2,8 +2,9 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwldnswldnswl&count_bg=%23141321&title_bg=%236C49B8&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)&nbsp;![블로그](https://img.shields.io/badge/-Tech%20Blog-6C49B8?logo=Bloglovin&link=https://blog.naver.com/wldnswldnswl)&nbsp;![메일](https://img.shields.io/badge/-Gmail-d93a7c?logo=Gmail?link=mailto:jiunlee97@gmail.com)
 
-<img align="center" src = "https://github-readme-stats.vercel.app/api?theme=radical&&username=wldnswldnswl" />
-
+<p align="center">
+    <img align="center" src = "https://github-readme-stats.vercel.app/api?theme=radical&&username=wldnswldnswl" />
+</p>
 
 ### 🔯️ Core Tech
 ![java](https://img.shields.io/badge/-Java-007396?logo=Java)&nbsp;![spring](https://img.shields.io/badge/-SpringBoot-6DB33F?logo=Spring)&nbsp;![mysql](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL)
